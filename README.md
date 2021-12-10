@@ -37,8 +37,8 @@ install.packages('shiny')
 library(shiny) 
 shiny::runGitHub(repo = "2018PowerliftingDataApp",username = "dsylvester2017",ref="master")  
 ```
-## Github link 
-
+## Github link (you're already here so weird if you need this)
+https://github.com/dsylvester2017/2018PowerliftingDataApp
 
 ## live project using shinyapps.io link
 https://dsylvester2017.shinyapps.io/dsylvester2017ShinyApp/
