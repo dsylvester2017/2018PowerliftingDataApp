@@ -1,7 +1,7 @@
 # 2018PowerliftingDataApp
 
 # Intro
-The purpose of this application is to anaylze powerlifting performance during the 2018 nationals held in Australia. I held this dataset in particular interest because I practice this sport everyday.  
+The purpose of this application is to anaylze powerlifting performance during the 2018 nationals held in Australia. I held this dataset in particular interest because I practice the squat, benchpress, and deadlift very often every week and was curious as to what the average national athlete numbers were. Additionally, these athletes are non-tested, so it's interesting to see what they can achieve with no restrictions or regulations. 
 
 # Dataset Info
 link: https://www.kaggle.com/open-powerlifting/powerlifting-database
