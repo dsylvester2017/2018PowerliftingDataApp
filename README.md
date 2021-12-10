@@ -25,9 +25,9 @@ Wilks (Bodyweight to total ratio)
 # Categorical Variables
 The only categorical variable used in this project was gender (Male or Female) and can be filtered for all calculations on the left panel at the bottom of the screen.
 # How to Run 2018PowerliftingDataApp
-Requirement
-R >= 4
-Shiny >= 1.2
+Requirements <br/>
+Must have R language (R studio IDE) downloaded on your computer
+Download shiny by installing the package as shown in step 2
 
 ## Step 1: Open R Studio and create a project
 
